@@ -9,7 +9,7 @@ public abstract class Cliente {
 		this.nome = nome;
 		this.cognome = cognome;
 	}
-
+	// modifica
 	public String getNome() {
 		return nome;
 	}
